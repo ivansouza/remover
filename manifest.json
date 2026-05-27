@@ -2,7 +2,7 @@
   "name": "Remover Watermark Gemini",
   "short_name": "Remover WM",
   "description": "Remove watermarks do Gemini 100% local no navegador",
-  "start_url": ".",
+  "start_url": "/remover/",
   "display": "standalone",
   "background_color": "#1a1a2e",
   "theme_color": "#1a1a2e",
@@ -21,6 +21,9 @@
       "purpose": "any maskable"
     }
   ],
-  "categories": ["utilities", "photo"],
+  "categories": [
+    "utilities",
+    "photo"
+  ],
   "lang": "pt-BR"
 }
